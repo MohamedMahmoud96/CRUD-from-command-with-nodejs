@@ -1,0 +1,7 @@
+[
+    { "name": "mohamed", "email": "m@m.com", "gander": "male", "id": 1 },
+    { "name": "ahmed", "email": "a@a.com", "gander": "male", "id": 2 },
+    { "name": "islam", "email": "i@i.com", "gander": "male", "id": 3 },
+    { "name": "hassan", "email": "ha@ha.com", "gander": "male", "id": 4 },
+    { "name": "mohsan", "email": "mo@mo.com", "gander": "male", "id": 5 }
+]
